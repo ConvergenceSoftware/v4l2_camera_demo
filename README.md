@@ -44,9 +44,9 @@ camera_demo.pro中添加libjpeg.so的路径： 将unix:LIBS += **/usr/lib/x86_64
 - https://github.com/ZXX521/V4L2-Qt5.6.0-Ubuntu16.04
 
 # 联系我们
-邮箱:
-software@cvgc.cn
-官方网站:
-http://www.cvgc.cn/
-http://www.tipscope.com/
-https://www.tinyscope.com/
+邮箱:  
+software@cvgc.cn  
+官方网站:  
+http://www.cvgc.cn/  
+http://www.tipscope.com/  
+https://www.tinyscope.com/  
